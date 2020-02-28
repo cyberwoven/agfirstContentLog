@@ -5,7 +5,7 @@
   "keywords": [
     "Drupal"
   ],
-  "homepage": "https://bitbucket.org/cyberwoven/agfirst_content_log",
+  "homepage": "https://github.com/cyberwoven/agfirst_content_log",
   "license": "GPL-2.0+",
   "minimum-stability": "dev",
   "extra": {
@@ -14,7 +14,7 @@
     }
   },
   "support": {
-    "source": "https://bitbucket.org/cyberwoven/agfirst_content_log.git"
+    "source": "https://github.com/cyberwoven/agfirst_content_log.git"
   },
   "require": {}
 }
